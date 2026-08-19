@@ -197,6 +197,9 @@ The report contains five analytical pages.
 
 ### 1. Executive Overview
 
+![Executive Overview](Screenshots/01_Executive_Overview.png)
+
+
 Provides a high-level view of:
 
 * Total Revenue
@@ -208,6 +211,8 @@ Provides a high-level view of:
 * Facility performance
 
 ### 2. Parking Operations
+
+![Parking Operations](Screenshots/02_Parking_Operations.png)
 
 Analyzes:
 
