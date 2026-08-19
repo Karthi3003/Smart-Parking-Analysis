@@ -225,6 +225,8 @@ Analyzes:
 
 ### 3. Revenue Analysis
 
+![Revenue Analysis](Screenshots/03_Revenue_Analysis.png)
+
 Analyzes:
 
 * Monthly revenue
@@ -238,6 +240,8 @@ Analyzes:
 
 ### 4. Customer & Vehicle Analysis
 
+![Customer & Vehicle Analysis](Screenshots/04_Customer_Vehicle_Analysis.png)
+
 Analyzes:
 
 * Customer type distribution
@@ -248,6 +252,8 @@ Analyzes:
 * Customer and vehicle combinations
 
 ### 5. Capacity & Demand Analysis
+
+![Capacity & Demand Analysis](Screenshots/05_Capacity_Demand_Analysis.png)
 
 Analyzes:
 
