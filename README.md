@@ -356,3 +356,16 @@ Smart-Parking-Analysis/
 ## ⭐ Project Skills Demonstrated
 
 **SQL | MySQL | Data Cleaning | Power Query | Data Modeling | DAX | Power BI | Data Visualization | KPI Development | Business Analysis**
+
+
+---
+
+## 🔗 Project Links
+
+- 📊 **Power BI Dashboard:** [Smart Parking Analysis PBIX](./PowerBI/Smart_Parking_Analysis.pbix)
+- 📁 **Dataset:** [Smart Parking Dataset](./Dataset/Smart_Parking_Dataset.csv)
+- 🗄️ **SQL Scripts:** [SQL Analysis](./SQL/)
+- 🖼️ **Dashboard Screenshots:** [View Screenshots](./Screenshots/)
+- 📄 **Project Report:** [Project Report PDF](./Documentation/Project_Report.pdf)
+- 📑 **Data Dictionary:** [Data Dictionary](./Documentation/Data_Dictionary.xlsx)
+- 💻 **GitHub Repository:** [Smart-Parking-Analysis](https://github.com/Karthi3003/Smart-Parking-Analysis)
